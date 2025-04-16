@@ -1,0 +1,10 @@
+{
+  "test.py::test_upload_image_and_get_prediction": true,
+  "test/test.py::test_login_flow": true,
+  "test/test.py::test_image_upload_and_classification": true,
+  "test/test.py::test_chatbot_response": true,
+  "test/test.py::test_history_page": true,
+  "test/locustfile.py": true,
+  "test/test_main.py::test_login_as_guest": true,
+  "test/test_main.py::test_image_upload_classify": true
+}
